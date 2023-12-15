@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+body{
+    background-attachment: fixed;
+    background: linear-gradient()
+}
+.base{
+    background-color: white;
+    position: absolute;
+    height: 45px;
+    width: 720px;
+    border-radius: 30px;
+    left: 25%;
+    right: 25%;
+
+}
+.container{
+    position: absolute;
+    width: 50%;
+    width: 280px;
+    font-size: 10px;
+}
+.box{
+    position: absolute;
+    height: 50%;
+    width: 25%;
+    background-color: beige;
+    z-index: -10;
+}

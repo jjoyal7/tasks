@@ -1,0 +1,78 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/asian-student-spies-her-brown-leather-bag-blue_1150-19193.jpg?w=1380&t=st=1702367690~exp=1702368290~hmac=9085169d2e79dceeb3335d10badc6861658fb0aee4ee7f49d919b56c3c0333f9);
+    z-index: 1;
+}
+
+
+h1{
+    margin-left: 20%;
+    color: white;
+}
+span{
+    color: red;
+}
+.address{
+    position: absolute;
+    margin-left: 45%;
+    top: 10px;
+    font-size: 13px;
+    color: white;
+}
+.time{
+    position: absolute;
+    margin-left: 60%;
+    top: 10px;
+    font-size: 13px;
+    color: white;
+}
+ul{
+    background-color: gainsboro;
+    border-radius: 50px;
+    height: 60px;
+    width: 50%;
+    margin-left: 20%;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    text-align: left;  
+    color: black
+}
+.top{
+    color: red;
+    font-size: 15px;
+    padding-left: 100px;
+    margin-top: 100px;
+    
+}
+pre{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+
+}
+
+.bottom{
+    font-size: 15px;
+    padding-left: 100px;
+    top: 10px;
+    margin-top: -50px;
+    color: white;
+    
+}
+button{
+    position: absolute;
+    background-color: red;
+    color: white;
+    width: 10%;
+    height: 8%;
+    margin-left: 100px;
+    border-radius: 15px;
+
+}
+li i{
+color: green;
+margin-left: 8px;
+
+}
